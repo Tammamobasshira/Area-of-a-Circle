@@ -11,6 +11,6 @@ void main()
         scanf ("%f", & radius);
         area = pi * radius * radius;
         circumference = 2 * pi * radius;
-        printf ("Area of the Circle is .2%f\n", area);
-        printf ("Area of the Circumference is .2%f\n", circumference);
+        printf ("Area of the Circle is %f\n", area);
+        printf ("Area of the Circumference is %f\n", circumference);
     }
